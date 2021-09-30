@@ -8,14 +8,14 @@ while(getline(cin,in1))
   .....
   
   
-if(count%2==1)
-{
-  cout<<"``";
-}
-else if(count%2==0) //짝수 밑에 모양; 
-{
-  cout<<"''";
-}
+  if(count%2==1)
+  {
+    cout<<"``";
+  }
+  else if(count%2==0) //짝수 밑에 모양; 
+  {
+    cout<<"''";
+  }
 .....
 ```
 ----
